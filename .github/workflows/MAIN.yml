@@ -1,3 +1,4 @@
+
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
@@ -52,3 +53,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          
+          ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
