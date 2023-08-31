@@ -3,8 +3,6 @@
 
 - I’m currently working on **MERN Stack Development**
 
-- I’m currently learning **React Native**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theharoonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theharoonali" height="30" width="40" /></a>
