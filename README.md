@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
-<h3 align="center">A passionate Computer Engineer from Pakistan</h3>
+<h3 align="center">A Passionate Computer Engineering Graduate from Pakistan</h3>
 
 - I’m currently working on **MERN Stack Development**
 
